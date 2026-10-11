@@ -6,7 +6,7 @@ Currently, I lead NOC & Data Center operations in a 4G telecommunications enviro
 
 Over the years, my curiosity has expanded beyond telecoms into Cybersecurity, IT, Automation, Data Analysis, and Technology Solutions.
 
-🔧 What I Work With  
+What I Work With [🔧]
 📡 Telecommunications & 4G/LTE Networks  
 🖥️ Network Operations & Data Center Management  
 🔐 Cybersecurity & Security Operations  
