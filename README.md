@@ -6,16 +6,16 @@ Currently, I lead NOC & Data Center operations in a 4G telecommunications enviro
 
 Over the years, my curiosity has expanded beyond telecoms into Cybersecurity, IT, Automation, Data Analysis, and Technology Solutions.
 
-🔧 What I Work With
-📡 Telecommunications & 4G/LTE Networks
-🖥️ Network Operations & Data Center Management
-🔐 Cybersecurity & Security Operations
-📊 Data Analysis & Microsoft Excel
-🐍 Python & Automation
-🌐 Networking & IT Infrastructure
-📈 Network Monitoring, KPIs & Performance Management
-☁️ Exploring Cloud & Modern IT Technologies
-🔐 Cybersecurity Journey
+🔧 What I Work With  
+📡 Telecommunications & 4G/LTE Networks  
+🖥️ Network Operations & Data Center Management  
+🔐 Cybersecurity & Security Operations  
+📊 Data Analysis & Microsoft Excel    
+🐍 Python & Automation   
+🌐 Networking & IT Infrastructure   
+📈 Network Monitoring, KPIs & Performance Management   
+☁️ Exploring Cloud & Modern IT Technologies   
+🔐 Cybersecurity Journey   
 
 I'm actively developing my cybersecurity skills and have earned the ISC2 Certified in Cybersecurity (CC) certification.
 
